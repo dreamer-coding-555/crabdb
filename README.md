@@ -42,7 +42,7 @@ Before getting started, make sure you have the following installed:
 
 5. **Run the Project**:
    ```zsh
-   app
+   crabdb
    ```
 
 ## Contributing
